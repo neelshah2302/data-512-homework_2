@@ -60,14 +60,14 @@ HW2_Data_Ingestion_and_Analysis.ipynb - This notebook will cover and run 3 high-
         6. Stub - Stub-class article
      
   ## 3. Data Analysis:
-      In this step, we will perform an analysis that will consist of calculating total-articles-per-population (a ratio representing the          number of articles per person)  and high-quality-articles-per-population (a ratio representing the number of high quality articles          per person) on a state-by-state and divisional basis. All of these values are “per capita” ratios.
+  In this step, we will perform an analysis that will consist of calculating total-articles-per-population (a ratio representing the number of articles per person)  and high quality-articles-per-population (a ratio representing the number of high-quality articles per person) on a state-by-state and divisional basis. All of these values are “per capita” ratios.
+  
+  Results:
+  The results from this analysis are produced in the form of 6 data tables:
+  1. Top 10 US states by coverage: The 10 US states with the highest total articles per capita (in descending order):
+     <img width="597" alt="Screenshot 2023-10-16 at 10 53 40 PM" src="https://github.com/neelshah2302/data-512-homework_2/assets/122260079/8b79e794-85f0-4a2c-a2e3-c2764bd5c547">
 
-      Results:
-      The results from this analysis are produced in the form of 6 data tables:
-      1. Top 10 US states by coverage: The 10 US states with the highest total articles per capita (in descending order):
-      <img width="597" alt="Screenshot 2023-10-16 at 10 53 40 PM" src="https://github.com/neelshah2302/data-512-homework_2/assets/122260079/275f45c7-f5b7-40c2-9854-cf5c4b85f250">
-
-      2. Bottom 10 US states by coverage: The 10 US states with the lowest total articles per capita (in ascending order)
+  3. Bottom 10 US states by coverage: The 10 US states with the lowest total articles per capita (in ascending order)
       <img width="589" alt="Screenshot 2023-10-16 at 10 53 52 PM" src="https://github.com/neelshah2302/data-512-homework_2/assets/122260079/e88c3b86-bc80-4452-bc24-127523e6bad9">
 
       3. Top 10 US states by high quality: The 10 US states with the highest high quality articles per capita (in descending order)
