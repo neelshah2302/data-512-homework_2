@@ -5,11 +5,13 @@
 
 # Goal of the project:
 The goal of this assignment is to explore the concept of bias in data using Wikipedia articles. This assignment will consider articles about cities in different US states. For this assignment, you will combine a dataset of Wikipedia articles with a dataset of state populations, and use a machine learning service called ORES to estimate the quality of the articles about the cities.
-You are expected to perform an analysis of how the coverage of US cities on Wikipedia and how the quality of articles about cities varies among states. Your analysis will consist of a series of tables that show:
-The states with the greatest and least coverage of cities on Wikipedia compared to their population.
-The states with the highest and lowest proportion of high quality articles about cities.
-A ranking of US geographic regions by articles-per-person and proportion of high quality articles.
-You are also expected to write a short reflection on the project that focuses on how both your findings from this analysis and the process you went through to reach those findings helps you understand the causes and consequences of biased data in large, complex data science projects.
+
+We will perform an analysis of the coverage of US cities on Wikipedia and how the quality of articles about cities varies among states. The analysis will consist of a series of tables that show:
+1. The states with the greatest and least coverage of cities on Wikipedia compared to their population.
+2. The states with the highest and lowest proportion of high-quality articles about cities.
+3. A ranking of US geographic regions by articles-per-person and proportion of high-quality articles.
+
+At the end, we have a short reflection on the project that focuses on both your findings from this analysis and the process we went through to reach those findings that help us understand the causes and consequences of biased data in large, complex data science projects.
 
 # Licence: 
 https://www.mediawiki.org/wiki/API:REST_API#Terms_and_conditions
