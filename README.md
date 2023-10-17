@@ -14,11 +14,12 @@ We will perform an analysis of the coverage of US cities on Wikipedia and how th
 At the end, we have a short reflection on the project that focuses on both your findings from this analysis and the process we went through to reach those findings that help us understand the causes and consequences of biased data in large, complex data science projects.
 
 # Licence: 
-https://www.mediawiki.org/wiki/API:REST_API#Terms_and_conditions
-https://creativecommons.org/licenses/by/4.0/
+   https://www.mediawiki.org/wiki/API:REST_API#Terms_and_conditions
+   https://creativecommons.org/licenses/by/4.0/
 
 # REST API Documentation and other sources: 
 https://www.mediawiki.org/wiki/API:Info
+
 https://www.mediawiki.org/wiki/ORES
 https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
 https://en.wikipedia.org/wiki/Category:Lists_of_cities_in_the_United_States_by_state
